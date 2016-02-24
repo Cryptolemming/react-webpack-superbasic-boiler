@@ -13,7 +13,7 @@ npm install
 run (use nodemon for continuous)
 ```
 node app.js 
-``
+```
 
 to build (--watch flag for continuous)
 ```
