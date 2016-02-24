@@ -2,7 +2,7 @@
 
 clone
 ```
-git clone
+git clone https://github.com/Cryptolemming/react-webpack-superbasic-boiler.git
 ```
 
 install repositories
@@ -19,4 +19,3 @@ to build (--watch flag for continuous)
 ```
 webpack --watch
 ```
-
