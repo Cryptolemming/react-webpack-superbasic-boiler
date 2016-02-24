@@ -1,20 +1,20 @@
 {
-  "name": "athingaweek",
+  "name": "Basic boiler",
   "version": "1.0.0",
-  "description": "Exercises for [athingaweek.com](http://www.athingaweek.com)",
+  "description": "Basic boiler",
   "scripts": {
     "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cryptolemming/athingaweek.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Cryptolemming/athingaweek/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/Cryptolemming/athingaweek#readme",
+  "homepage": "",
    "dependencies": {
     "babel": "6.5.2",
     "babel-core": "6.5.2",
