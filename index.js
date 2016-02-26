@@ -11,9 +11,7 @@ var styles = {
 };
 
 var App = Radium(React.createClass({
-	
 	render() {
-
 		return(
 			<div>
 				<h1 style={styles.example}>
